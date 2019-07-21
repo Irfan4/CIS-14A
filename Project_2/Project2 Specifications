@@ -1,0 +1,12 @@
+Project 2: Fast Food Menu
+
+Write a program to place an order from the restaurant menu (see pics).
+Write the program so that each group box is invisible and becomes
+visible only when its corresponding check box is checked. After the
+"Total Cost" button is clicked, the cost of the meal should be
+calculated. (Note: The Checked property of the first radio button in
+each group box should be set to True in its Properties window. This
+guarantees that a selection is made in each visible group box. Of
+course, when the cost of the meal is calculated only the visible group
+boxes should be considered). When the "Reset" button is pressed,
+program should be ready for the next order.

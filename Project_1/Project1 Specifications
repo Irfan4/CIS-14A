@@ -1,0 +1,16 @@
+Project 1 Specifications: Metric Conversion
+
+Write a program to convert a U.S. Customary System length in miles,
+yards, feet, and inches to a Metric System length in kilometers,
+meters, and centimeters. A Sample run is shown below. After the number
+of miles, yards, feet, and inches are read from the text boxes, the
+length should be converted entirely to inches and then divided by
+39.37 to obtain the value in meters. The Int function should be used
+to break the total number of meters into a whole number of kilometers
+and meters. The number of centimeters should be displayed to one
+decimal place. Use the naming convention provided for all controls on
+the form and all variables used. The needed formulas are as follows:
+dblTotal_inches = (63360 * intMiles) + (36 * intYards) + (12 *
+intFeet) + intInches
+dblTotal_meters = dblTotal_inches / 39.37
+intKilometers = Int(dblTotal_meters/1000)

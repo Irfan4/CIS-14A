@@ -1,4 +1,4 @@
-# CIS-14A - Visual Basic .NET Programming I
+# CIS 14A - Visual Basic .NET Programming I
 
 Programming in Visual Basic. 
 Emphasis on Windows programming using the Visual Basic environment. 
